@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.039bf95e.css",
+    "main.js": "/static/js/main.56da6dae.js",
+    "static/media/Akira.png": "/static/media/Akira.cebb75f24052b3a42c4d.png",
+    "static/media/Hello.gif": "/static/media/Hello.d93720933c608f6178fb.gif",
+    "static/media/php.svg": "/static/media/php.1ccfc68764719252ab4ca0cd62f97c98.svg",
+    "static/media/akira_resume.pdf": "/static/media/akira_resume.fceb3e92f5f5edb8da2f.pdf",
+    "static/media/nestjs.svg": "/static/media/nestjs.ef4268f5bb32b733c0f23bf56867a659.svg",
+    "static/media/postgresql.svg": "/static/media/postgresql.c5a8aa7dc61d20179dd5bd3dd7ef19f1.svg",
+    "static/media/mysql.svg": "/static/media/mysql.31ae26aa6584ebd5494377e0178b3d7e.svg",
+    "static/media/illustration.svg": "/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
+    "static/media/sass-icon.svg": "/static/media/sass-icon.3572f53ec4f404e921a9e8193cdb70fe.svg",
+    "static/media/laravel.svg": "/static/media/laravel.546b06c50e9bb406a58acd3f93fc14bd.svg",
+    "static/media/mongodb.svg": "/static/media/mongodb.65cd0cbff6fe3e6539854b96c4560945.svg",
+    "static/media/node-icon.svg": "/static/media/node-icon.cc3d45a160579a330a5c17cc2c8f1407.svg",
+    "static/media/go.svg": "/static/media/go.0528d9e6536ae8e743b2c192c1529e4f.svg",
+    "static/media/typescript-icon.svg": "/static/media/typescript-icon.f3bc0fd998dea6b1266965436af97a49.svg",
+    "static/media/bootstrap-icon.svg": "/static/media/bootstrap-icon.09b773cc0f17dc078cc9864e5e8006ba.svg",
+    "static/media/react-icon.svg": "/static/media/react-icon.a010f287ea79ad0673b610a223faa951.svg",
+    "index.html": "/index.html",
+    "static/media/c-plusplus.svg": "/static/media/c-plusplus.c2926ce8baf39e14b40727267dbfcd93.svg",
+    "static/media/telegram.svg": "/static/media/telegram.45bf2371ee6528cc27d66c08f8e43356.svg",
+    "static/media/shopify.svg": "/static/media/shopify.6844408d4c13f2222031ef679e05c95e.svg",
+    "static/media/github.svg": "/static/media/github.d344c0fc70ddfb6de253ddc40adcb086.svg",
+    "static/media/email-icon.svg": "/static/media/email-icon.a5dd245e834641e729e77e40309039c4.svg",
+    "static/media/external-link.svg": "/static/media/external-link.8ce0d189635b118259ec51d8c9b4a1d0.svg",
+    "static/media/html-icon.svg": "/static/media/html-icon.185baee7db74b83bf22eec6a6def7644.svg",
+    "static/media/css-icon.svg": "/static/media/css-icon.212d777ae2db63edb235490d487dc292.svg",
+    "static/media/wordpress.svg": "/static/media/wordpress.19efd7af1fafc38a53600387f0821d3d.svg",
+    "static/media/c-original.svg": "/static/media/c-original.4d943a0cb2aae0c439363d64b64f92e7.svg",
+    "static/media/angular.svg": "/static/media/angular.5de8a0b112e415ba187a08415e7582be.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
+    "static/media/js-icon.svg": "/static/media/js-icon.2d25723e91c8a9e057ae447ae6a73ecb.svg",
+    "static/media/vue-icon.svg": "/static/media/vue-icon.7219cc0384993fc067ee20c94a66b1e9.svg",
+    "main.039bf95e.css.map": "/static/css/main.039bf95e.css.map",
+    "main.56da6dae.js.map": "/static/js/main.56da6dae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.039bf95e.css",
+    "static/js/main.56da6dae.js"
+  ]
+}
